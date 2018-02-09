@@ -1,7 +1,6 @@
 # DustBunn
 Ashley Proctor
-
-/*
+<!--
 <!DOCTYPE html>
 <html>
 <img id="canvas" width="600" height="600" src="https://goo.gl/GAWnPK" alt="The canvas" style="display: none;">
@@ -38,4 +37,4 @@ window.onload = function() {
 
 </body>
 </html>
-*/
+-->
